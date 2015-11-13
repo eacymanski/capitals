@@ -1,0 +1,18 @@
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\bin\Debug\capitals.exe.config
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\bin\Debug\capitals.exe
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\bin\Debug\capitals.pdb
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.capitalQuiz.resources
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.Properties.Resources.resources
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.csproj.GenerateResource.Cache
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.exe
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.pdb
+M:\dev\InternProjects\2015\ECymanski\capitals\capitals\obj\Debug\capitals.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\bin\Debug\capitals.exe.config
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.pdb
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\bin\Debug\capitals.exe
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\bin\Debug\capitals.pdb
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.csprojResolveAssemblyReference.cache
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.capitalQuiz.resources
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.Properties.Resources.resources
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.csproj.GenerateResource.Cache
+C:\Users\Liz\Downloads\capitals (1)\capitals\capitals\obj\Debug\capitals.exe
